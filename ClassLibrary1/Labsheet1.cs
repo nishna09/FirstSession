@@ -55,7 +55,8 @@ namespace ClassLibrary1
 
             }while(value != -1);
 
-
+            Console.WriteLine("Refactored!");
+            Console.WriteLine("Message 1");
             
         }
     }

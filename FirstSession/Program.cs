@@ -14,6 +14,7 @@ namespace FirstSession
 
             //Class1.TurnaryExp();
             Labsheet1.Check();
+            
         }
     }
 }
